@@ -2918,9 +2918,9 @@
 {"path":"cerca-lavoro-vaud/apprendista-automatista-bobst-switzerland-mex","hash":"7083f94ab65ba559cf4da437035c35c09cc2f502fbeaf911ea08e8b330224301"}
 {"path":"cerca-lavoro-vaud/apprendista-cuoco-f-m-ensemble-hospitalier-de-la-cote-ehc-aubonne","hash":"8631391f64e3b066e3e285a00b0689a0a597a7623aa1b6ffb8bfe2c7e511bbd1"}
 {"path":"cerca-lavoro-vaud/apprendista-disegnatore-costruttore-industriale-bobst-switzerland-mex","hash":"10bf7684882cb2522d223820f3522940aa956dafe4de71d577b311de891fb80e"}
-{"path":"cerca-lavoro-vaud/apprendista-elektroniker-in-cfc-confederazione-svizzera-payerne","hash":"f0526512e1117ec3d6568bd40e794220afd730a705c2bb2c4139eb0f2f77b683"}
-{"path":"cerca-lavoro-vaud/apprendista-elektroniker-in-cfc-confederazione-svizzera-payerne-a8596868c9","hash":"4040a3539b11d00deb7c3bae44c14e92fd5e5b9fd9101d3f9dc2762e4ffd4c43"}
-{"path":"cerca-lavoro-vaud/apprendista-elettronico-a-afc-confederazione-svizzera-payerne-cbaf4e9b14","hash":"b03495b7f5fc4f875e7cfece97adb57696f71b02d5ce814693ccd3f8de4eb4b0"}
+{"path":"cerca-lavoro-vaud/apprendista-elektroniker-in-cfc-confederazione-svizzera-payerne","hash":"05ab944e0928db812479ba3d1b776ba5da8c009e1c84b686af11036920c301f4"}
+{"path":"cerca-lavoro-vaud/apprendista-elektroniker-in-cfc-confederazione-svizzera-payerne-a8596868c9","hash":"959f450906c3fab5ea0d9d0c5a78735413a0e2e817e05c243f4b44dfee6203eb"}
+{"path":"cerca-lavoro-vaud/apprendista-elettronico-a-afc-confederazione-svizzera-payerne-cbaf4e9b14","hash":"28223f641f841a96b17c16e112b0570b2ee11fc41d71f5a17f0775accb738130"}
 {"path":"cerca-lavoro-vaud/apprendista-en-gestion-f-m-d-fenaco-puidoux","hash":"7d119a151dbd1ae901dcfdbe67a1603f2009fa7988be9dcc4dc5c09240be3a1f"}
 {"path":"cerca-lavoro-vaud/apprendista-ghi-gestore-di-albergo-e-intendanza-f-m-ensemble-hospitalier-de-la-cote-ehc-morges","hash":"48b9c65d87b26e55f65e6981dabdf70116b4701d535c2b35be31ecab2ca39d3d"}
 {"path":"cerca-lavoro-vaud/apprendista-impiegato-di-commercio-m-f-d-agosto-2027-raiffeisen-echallens","hash":"72d448835ae0d2ae08604a32b94074d2989a831c03e94dc0dafa633dd5f19a8c"}
@@ -3148,7 +3148,7 @@
 {"path":"cerca-lavoro-vaud/apprenti-ghi-gestionnaire-en-hotellerie-intendance-f-h-ehc-vd-morges-eea1e98f","hash":"d606dc20b66cb85b6d5bb60d68447d500a5a20e954dc6d61958f8ac5510293c7"}
 {"path":"cerca-lavoro-vaud/apprentice-asa-care-and-support-assistant-ensemble-hospitalier-de-la-cote-ehc-morges","hash":"7010e1e2aea7d1f2986491068d0aa0645fba37a33493e10d4b294d9fadb97780"}
 {"path":"cerca-lavoro-vaud/apprentice-assc-assistant-care-and-community-health-f-h-ensemble-hospitalier-de-la-cote-ehc-morges","hash":"ca31f451ed4724ff46baaf045c54289f63d62e23ed7ff62164daf3687054c7ff"}
-{"path":"cerca-lavoro-vaud/apprentice-electronics-technician-efz-confederazione-svizzera-payerne","hash":"3ddfc832904b8a726e4e4cb27bafef63e6ee5b47459435f305d0f704f7c86942"}
+{"path":"cerca-lavoro-vaud/apprentice-electronics-technician-efz-confederazione-svizzera-payerne","hash":"721bacf339ac9ededb18dfa493bdceff21816b441c1ee39bbf7cdf4404579e96"}
 {"path":"cerca-lavoro-vaud/apprentice-ghi-hotel-and-hospitality-manager-f-m-ensemble-hospitalier-de-la-cote-ehc-morges","hash":"708751f2d4e19540c5746fb526fd8038a502f22723653617a2cf0805c9c3e064"}
 {"path":"cerca-lavoro-vaud/apprentice-operating-agent-tl-transports-publics-de-la-region-lausannoise-lausanne-b3b844dd","hash":"ee6cbfc4d1bfb0490545c51dd3cc47e98617a51b1898b4f90b6a8ef1c03906de"}
 {"path":"cerca-lavoro-vaud/apprentice-operating-agent-tl-transports-publics-de-la-region-lausannoise-lausanne-cacd8aca","hash":"a463b1c110b8c380e2ce1fb7b67d0ea308cd641a1f1ccb8ead1e1f10042c6668"}
@@ -18570,7 +18570,7 @@
 {"path":"cerca-lavoro-vaud/technicien-en-centre-de-donnees-glarus-sur-place-reboot-monkey-glarus","hash":"49351e676edc8edcf2ba7a61ac3970c74a9ebab07824bf1a699ec089ad1704b3"}
 {"path":"cerca-lavoro-vaud/technicien-en-centre-de-donnees-suisse-avenches-sur-place-reboot-monkey-avenches","hash":"cfe7aabc9d2b636af1b67dacb012c963bb127ebd0dc949b63db6043ad8813466"}
 {"path":"cerca-lavoro-vaud/technicien-en-centre-de-donnees-sursee-sur-place-reboot-monkey-sursee","hash":"5b43e4aae5820671302703cef6b96e5a97e09a29910f38286935ed1bc6ae4cb9"}
-{"path":"cerca-lavoro-vaud/technicien-en-electronique-des-apprentis-efz-confederazione-svizzera-payerne","hash":"35e37463d99fa6c22f72a34ec0f50ea3685240adecc5723e0e61717e213db347"}
+{"path":"cerca-lavoro-vaud/technicien-en-electronique-des-apprentis-efz-confederazione-svizzera-payerne","hash":"ab69ff09bd40236aba76af7fd6831954ffac71862cd0b1a15bbfce1c6f0114c2"}
 {"path":"cerca-lavoro-vaud/technicien-en-radiologie-medicale-a-60-80-hirslanden-lausanne","hash":"bcb0ef440813c8ff60af99114137264f1275aa077be33e8a6f80f6502538a33b"}
 {"path":"cerca-lavoro-vaud/technicien-en-radiologie-medicale-a-60-hirslanden-lausanne","hash":"63012765ab740ff11d8633616c6a59170d8dfd2f5d022fac4bcf49844a91c153"}
 {"path":"cerca-lavoro-vaud/technicien-en-technologie-operationnelle-bell-suisse-sa-cheseaux-sur-lausanne","hash":"e5bf0046866d1ac1ae010cc0fa74b74f3ed619f55fc34f74651288e01f30d7b6"}
